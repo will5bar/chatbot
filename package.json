@@ -18,7 +18,7 @@
     "express": "4.17.1",
     "ibm-watson": "5.5.0",
     "mongodb": "3.5.7",
-    "node-forge": "0.8.4",
+    "node-forge": "0.10.0",
     "response-time": "2.3.2",
     "sqlite": "3.0.3",
     "sqlite3": "4.1.1",
